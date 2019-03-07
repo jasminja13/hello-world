@@ -1,5 +1,5 @@
 # hello-world
-Name:Jasmine,Student Number:991490852
+Name:Jasmine,Student Number:991490852,Campus:Davis,Exercise #3 for SYST2444
 
 Hi Folks!
 
